@@ -1,6 +1,14 @@
 #include<stdio.h>
 int main(){
-x=3;
+//Bluetooth to control robot
+char a =Serial.read();
+if (a=='L'){
+robot turn left;}
+//This is a BUGGG
+
+
 //Add line follwing robot
-y=1;
+Motor.init();
+
+//Add function 
 }
