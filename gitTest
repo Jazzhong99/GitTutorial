@@ -4,11 +4,11 @@ int main(){
 char a =Serial.read();
 if (a=='L'){
 robot turn left;}
-//This is a BUGGG
+//Testing
 
 
 //Add line follwing robot
 Motor.init();
 
-//Add function 
+//Add function
 }
