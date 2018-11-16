@@ -1,1 +1,6 @@
 #include<stdio.h>
+int main(){
+x=3;
+//Add line follwing robot
+y=1;
+}
